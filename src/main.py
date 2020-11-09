@@ -42,7 +42,7 @@ def main():
           [sg.Text("Time (s):", size=(8, 1), font='Helvetica 18'), sg.Txt('', size=(8,1), key='output')],
           [sg.Image(key='-Image1')]]
         
-    window = sg.Window("The \kappa-\mu fading model", layout, finalize=True, font='Helvetica 18')
+    window = sg.Window("The \kappa-\mu shadowed fading model", layout, finalize=True, font='Helvetica 18')
 
     # The Event Loop                 
     while True:
