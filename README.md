@@ -18,7 +18,7 @@ Runing main.py to start the GUI:
   
 ![ScreenShot](https://raw.github.com/Jonathan-Browning/Kappa-Mu-Shadowed-Fading-Python/main/docs/window.png)
 
-Entering values for the Rician K factor, the root mean sqaure of the signal \hat{r}(the input is the squared value), and \phi the phase parameter:
+Entering values for \kappa, m, \mu, and the root mean sqaure of the signal \hat{r}:
 
 ![ScreenShot](https://raw.github.com/Jonathan-Browning/Kappa-Mu-Shadowed-Fading-Python/main/docs/inputs.png)
 
